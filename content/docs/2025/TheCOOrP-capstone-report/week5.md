@@ -29,6 +29,8 @@ body.dark-mode iframe:fullscreen {
 
 [Also avaliable with multiplayer capabilities for Windows, Linux, and MacOS on Itch\.io.](https://localt0aster.itch.io/thecoorp)
 
+Or you can play the single player version here:
+
 <iframe loading="lazy" frameborder="0" src="https://itch.io/embed-upload/14046546?color=333333" allowfullscreen="" width="640" height="380"><a href="https://localt0aster.itch.io/thecoorp">Play TheCOOrP on itch.io</a></iframe>
 
 ## Feedback
